@@ -20,5 +20,5 @@ function evenOddAll (numbers) {
 }
 
 numbers = [1,2,3,4,5];
-var numbers =  evenOddAll(numbers)
-console.log(numbers)
+var numbers =  evenOddAll(numbers);
+console.log(numbers);
